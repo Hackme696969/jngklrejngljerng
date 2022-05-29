@@ -1,6 +1,6 @@
 {
 	"song": {
-		"player1": "sink",
+		"player1": "bf",
 		"gfVersion": "gf",
 		"notes": [
 			{
@@ -29241,7 +29241,7 @@
 				"mustHitSection": true
 			}
 		],
-		"player2": "GHOUL",
+		"player2": "dad",
 		"events": [],
 		"chartVersion": "2",
 		"eventObjects": [
@@ -29252,9 +29252,9 @@
 				"value": 109
 			}
 		],
-		"song": "Sink",
+		"song": "Dad Battle",
 		"needsVoices": true,
-		"stage": "depths",
+		"stage": "stage",
 		"validScore": true,
 		"bpm": 140,
 		"speed": 2.8,
