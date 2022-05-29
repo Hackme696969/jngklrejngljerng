@@ -1,6 +1,6 @@
 {
 	"song": {
-		"player1": "tails",
+		"player1": "bf",
 		"events": [],
 		"gfVersion": "gf",
 		"notes": [
@@ -10110,10 +10110,10 @@
 				"mustHitSection": true
 			}
 		],
-		"player2": "sonicLord",
+		"player2": "dad",
 		"player3": null,
-		"song": "Vessel",
-		"stage": "welcome",
+		"song": "Fresh",
+		"stage": "stage",
 		"needsVoices": true,
 		"validScore": true,
 		"bpm": 100,
