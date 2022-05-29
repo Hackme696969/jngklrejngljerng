@@ -1,9 +1,9 @@
 {
  "song": {
   "speed": 3.4,
-  "stage": "mall",
+  "stage": "stage",
   "player1": "bf",
-  "player2": "camellia",
+  "player2": "dad",
   "notes": [
    {
     "lengthInSteps": 16,
