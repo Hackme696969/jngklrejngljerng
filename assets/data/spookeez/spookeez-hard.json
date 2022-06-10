@@ -1,6 +1,6 @@
 {
 	"song": {
-		"player1": "befe",
+		"player1": "bf",
 		"events": [
 			[
 				1333.33333333333,
@@ -19835,10 +19835,10 @@
 				"mustHitSection": true
 			}
 		],
-		"player2": "soni",
+		"player2": "spooky",
 		"player3": null,
-		"song": "SPED",
-		"stage": "soni",
+		"song": "Spookeez",
+		"stage": "halloween",
 		"needsVoices": true,
 		"validScore": true,
 		"bpm": 180,
