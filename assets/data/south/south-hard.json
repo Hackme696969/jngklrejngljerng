@@ -1,8 +1,8 @@
 {
 	"song": {
-		"player1": "gfkrabs",
+		"player1": "bf",
 		"events": [],
-		"gfVersion": "bobtv",
+		"gfVersion": "gf",
 		"notes": [
 			{
 				"sectionNotes": [],
@@ -2033,10 +2033,10 @@
 				"mustHitSection": true
 			}
 		],
-		"player2": "krab",
+		"player2": "spooky",
 		"player3": null,
-		"song": "money-offer",
-		"stage": "krab",
+		"song": "South",
+		"stage": "stage",
 		"needsVoices": true,
 		"validScore": true,
 		"bpm": 160,
